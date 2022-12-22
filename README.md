@@ -33,18 +33,22 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="" style="disabled">
+	<a href="" target="_blank">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
-	<a href="https://velog.io/@woos_94">
+	&nbsp;
+	<a href="https://velog.io/@woos_94" target="_blank">
 		<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
 	</a>
-	<a href="https://blog.naver.com/woos_94">
+	&nbsp;
+	<a href="https://blog.naver.com/woos_94" target="_blank">
 		<img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white" />
 	</a>
-	<a href="https://velog.io/@woos_94">
+	&nbsp;
+	<a href="https://velog.io/@woos_94" target="_blank">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	</a>
+	&nbsp;
 	<br>
 </div>
 <!--
