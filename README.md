@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WOOSEONGJEON%20INTRO&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WOOSEONGJEON&fontSize=60)
 
 <div align=center>
 	<h3> Tech Stack </h3>
@@ -45,7 +45,7 @@
 		<img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white" />
 	</a>
 	&nbsp;
-	<a href="https://velog.io/@woos_94" target="_blank">
+	<a href="https://www.instagram.com/__woo.s/" target="_blank">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	</a>
 	&nbsp;
