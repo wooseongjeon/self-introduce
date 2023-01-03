@@ -51,6 +51,9 @@
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	</a>
 	&nbsp;
+	<a href="mailto:wooseongjeon.94@gmail.com" target="_blank">
+		<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+	</a>
 	<br>
 </div>
 <br>
@@ -59,6 +62,7 @@
 <br>
 <!--
 <div align=center>
+	
 	<a href="https://yermi.co.kr">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
